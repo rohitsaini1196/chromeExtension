@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Contact Mr. Saini",
+  "description": "contact Rohit Saini and Have funn!!",
+  "version": "1.0.0",
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+  "permissions": ["activeTab"]
+}
